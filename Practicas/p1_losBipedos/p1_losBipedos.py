@@ -1,3 +1,10 @@
+# Practica 1
+# Equipo: Los bipedos
+# Integrantes:
+#  - Francisco Contreras Ibarra
+#  - Jose Ethan Ortega Gonzalez
+#  - Alvaro Ramirez Lopez
+
 import sys
 
 def translate_codon(codon):
