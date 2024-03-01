@@ -34,7 +34,7 @@ def dna_to_protein(dna_sequence):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Uso: python programa.py archivo_entrada.fasta archivo_salida.fasta")
+        print("Uso: python p1_losBipedos.py <archivo_entrada>.fasta <archivo_salida>.fasta")
         sys.exit(1)
 
     input_file = sys.argv[1]
